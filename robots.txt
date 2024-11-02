@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://eqaguine.github.io/GAO/sitemap_index.txt
+Sitemap: https://eqaguine.github.io/Kib/sitemap_index.txt
+Sitemap: https://eqaguine.github.io/Rfk/sitemap_index.txt
+Sitemap: https://eqaguine.github.io/mIT/sitemap_index.txt
